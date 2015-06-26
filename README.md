@@ -3,6 +3,7 @@
 ## Data Sets
 
 1. Eye Tracking Data
+2. Sensor Data
 2. Logs
 
 ## Data Collection
